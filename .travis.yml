@@ -5,6 +5,3 @@ groovy:
 
 jdk:
   - oraclejdk7
-
-script:
-  - test
