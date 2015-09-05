@@ -13,4 +13,4 @@ jdk:
   #- export PATH=$PWD/groovy-2.4.4/bin:$PATH
 
 script:
-  - ./gradlew test
+  - gradle test
