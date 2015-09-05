@@ -4,13 +4,7 @@ groovy:
   - 2.4.4
 
 jdk:
-  - oraclejdk8
-
-#before_install:
-  #- groovy -version
-  #- wget http://central.maven.org/maven2/org/codehaus/groovy/groovy-binary/2.4.4/groovy-binary-2.4.4.zip
-  #- unzip groovy-binary-2.4.4.zip
-  #- export PATH=$PWD/groovy-2.4.4/bin:$PATH
+  - oraclejdk7
 
 script:
-  - gradle test
+  - test
