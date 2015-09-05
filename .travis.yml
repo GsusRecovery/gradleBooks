@@ -7,7 +7,7 @@ jdk:
   - oraclejdk7
 
 before_install:
-  - wget http://dl.bintray.com/groovy/maven/groovy-binary-2.4.4.zip
+  - wget http://central.maven.org/maven2/org/codehaus/groovy/groovy-binary/2.4.4/groovy-binary-2.4.4.zip
   - unzip groovy-binary-2.4.4.zip
   - export PATH=$PWD/groovy-2.4.4/bin:$PATH
 
