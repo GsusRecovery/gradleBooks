@@ -8,4 +8,4 @@ Simple Exercise of Gradle repos with Groovy, Spock and Jenkins / Travis configur
 - [ ] Add [Jenkins](https://jenkins-ci.org) integration
 
 ### Travis status
-[![Build Status](https://travis-ci.org/GsusRecovery/gradleBooks.svg?branch=master)](https://travis-ci.org/GsusRecovery/gradleBooks "target =" _ blank)
+[![Build Status](https://travis-ci.org/GsusRecovery/gradleBooks.svg?branch=master)](https://travis-ci.org/GsusRecovery/gradleBooks)
