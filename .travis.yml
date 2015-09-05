@@ -6,7 +6,7 @@ groovy:
 jdk:
   - oraclejdk8
 
-before_install:
+#before_install:
   #- groovy -version
   #- wget http://central.maven.org/maven2/org/codehaus/groovy/groovy-binary/2.4.4/groovy-binary-2.4.4.zip
   #- unzip groovy-binary-2.4.4.zip
